@@ -5,7 +5,7 @@
 - I'm keep learning new things.
 - 👀 I’m interested in video games. When I was a kid, I want to make a successful videogame. I have a long time learn to design and work with Unity. Even when I went to university, I still learn about it and have a plan and a piece of work on a casual game. As university requires time so I have to stop the project. But I know how to design, and it help me to create good looking websites.
 - I should focus on one thing (web) only, shouldn't I ? But i'll try other things when I have opportunity !
-- 📫 How to reach me : garenaobama@gmail.com 
+- 📫 How to reach me : phuongthan25503@gmail.com
 
 <!---
 garenaobama/garenaobama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
