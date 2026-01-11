@@ -3,7 +3,7 @@
 
 I am a versatile software engineer with a passion for building scalable backend systems and intuitive mobile applications. Starting with a background in game design, I have evolved into a full-stack architect capable of delivering end-to-end products across Web, Android, and Cross-Platform environments.
 
-- 🔭 **Currently working on:** Advanced Microservices with **Spring Boot 3** & **Docker**.
+- 🔭 **Currently working on:** Advanced Microservices with **Spring Boot 4** & **Docker**.
 - 🌱 **Learning:** Deep diving into **PostGIS** for location-based services and **AI Agent** integration.
 - 🎨 **Background:** My history with **Unity** & Game Design gives me a unique edge in creating polished, user-friendly UI/UX.
 - 💬 **Ask me about:** Android Architecture, Spring Security, or Hackintosh builds.
