@@ -31,10 +31,7 @@ I am a versatile software engineer with a passion for building scalable backend 
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-<img src="[https://github-readme-stats.vercel.app/api?username=garenaobama&show_icons=true&theme=radical](https://github-readme-stats-fast.vercel.app/api?username=garenaobama)" alt="Alex Than's Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garenaobama&layout=compact&theme=radical" alt="Top Langs" width="400" />
-</p>
+[![AlexThan's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=garenaobama)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ---
 
