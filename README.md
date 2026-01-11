@@ -1,13 +1,43 @@
-- 👋 Hi, I’m @garenaobama aka phuongzoro
-- 👀 I'm interested in making website. I studied about it since I was in high school. Since then, I've made some interesting webpage. But I only have a real product when I went to University.
-- Fer3 is one of my favourite ReactJS project. With three people, we built a pretty good product for our ReactJS Course
-- 👀 I can work with some basic web languages (HTML, CSS, JAVASCRIPT), database platform like SQLSERVER, java (servlet web, my biggest and best project was a servlet web 'PRJ301PROJECT')
-- I'm keep learning new things.
-- 👀 I’m interested in video games. When I was a kid, I want to make a successful videogame. I have a long time learn to design and work with Unity. Even when I went to university, I still learn about it and have a plan and a piece of work on a casual game. As university requires time so I have to stop the project. But I know how to design, and it help me to create good looking websites.
-- I should focus on one thing (web) only, shouldn't I ? But i'll try other things when I have opportunity !
-- 📫 How to reach me : phuongthan25503@gmail.com
+# Hi there, I'm Alex Than 👋
+### Full Stack & Mobile Engineer
 
-<!---
-garenaobama/garenaobama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a versatile software engineer with a passion for building scalable backend systems and intuitive mobile applications. Starting with a background in game design, I have evolved into a full-stack architect capable of delivering end-to-end products across Web, Android, and Cross-Platform environments.
+
+- 🔭 **Currently working on:** Advanced Microservices with **Spring Boot 3** & **Docker**.
+- 🌱 **Learning:** Deep diving into **PostGIS** for location-based services and **AI Agent** integration.
+- 🎨 **Background:** My history with **Unity** & Game Design gives me a unique edge in creating polished, user-friendly UI/UX.
+- 💬 **Ask me about:** Android Architecture, Spring Security, or Hackintosh builds.
+
+---
+
+### 🛠 Tech Stack
+
+**Mobile Development**
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Backend & DevOps**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Frontend**
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=garenaobama&show_icons=true&theme=radical" alt="Alex Than's Stats" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garenaobama&layout=compact&theme=radical" alt="Top Langs" width="400" />
+</p>
+
+---
+
+### 📫 Connect with me
+- **Email:** [phuongthan25503@gmail.com](mailto:phuongthan25503@gmail.com)
+- **Focus:** I am open to discussing complex backend architectures or mobile product ideas.
